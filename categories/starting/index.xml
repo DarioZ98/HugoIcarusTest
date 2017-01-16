@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starting on Icarus</title>
-    <link>https://example.org/categories/starting/index.xml</link>
+    <link>https://darioz98.github.io/HugoIcarusTest/categories/starting/index.xml</link>
     <description>Recent content in Starting on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>it-it</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://example.org/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://darioz98.github.io/HugoIcarusTest/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://example.org/2015/06/24/creating-a-new-theme</link>
+      <link>https://darioz98.github.io/HugoIcarusTest/2015/06/24/creating-a-new-theme</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/2015/06/24/creating-a-new-theme</guid>
+      <guid>https://darioz98.github.io/HugoIcarusTest/2015/06/24/creating-a-new-theme</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
