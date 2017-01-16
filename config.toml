@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
+baseurl = "https://darioz98.github.io/HugoIcarusTest/"
+languageCode = "it-it"
 title = "Icarus"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "spf13"
